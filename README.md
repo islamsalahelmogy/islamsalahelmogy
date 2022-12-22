@@ -1,0 +1,12 @@
+- 👋 Hi, I’m Islam Elmogy
+- 👀 I’m a Full Stack Web Developer (Self-Taught)
+- 🔭 I’m currently working at MUP pharmaceutical Factory as Software Engineer
+- :confounded: I’m currently learning new technologies for backend development 
+ :heart_eyes: I've certificate ITI Intake 39 Nano Track Web and Cross Platform Mobile Applications
+- :heart_eyes: I've one certificates from Udacity Bacend development with nodejs
+  - [Full Stack Web Development Nanodegree]
+  - [React Development Nanodegree]
+- 📫 How to reach me: 
+  - :email: islam.elmogy.512@gmail.com
+  - [Upwork](https://www.upwork.com/freelancers/~0159548151fc31db1a)
+  - [LinkedIn](https://www.linkedin.com/in/islam-elmogy-054276103/)
